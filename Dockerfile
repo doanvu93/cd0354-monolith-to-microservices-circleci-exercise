@@ -1,5 +1,5 @@
 # Use NodeJS base image
-FROM node:18
+FROM node:20
 
 # Create a directory for the Express app
 WORKDIR /usr/src/app
